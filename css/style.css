@@ -195,6 +195,10 @@ h6 {
   font-weight: 700;
 }
 
+#intro .intro-info p {
+  color: #fff;
+}
+
 #intro .intro-info h2 span {
   color: #74b5fc;
   text-decoration: underline;
